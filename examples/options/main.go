@@ -7,10 +7,10 @@ import (
 
 	"github.com/fatih/color"
 	"github.com/go-kit/log"
-	"go.ideatocode.tech/config"
-	"go.ideatocode.tech/config/pkg/flags"
-	"go.ideatocode.tech/config/pkg/marshal"
-	"go.ideatocode.tech/config/pkg/repository"
+	"github.com/helios-live/go-config/v2"
+	"github.com/helios-live/go-config/v2/pkg/flags"
+	"github.com/helios-live/go-config/v2/pkg/marshal"
+	"github.com/helios-live/go-config/v2/pkg/repository"
 )
 
 type mainConfig struct {

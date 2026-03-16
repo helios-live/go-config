@@ -3,7 +3,7 @@ package repository
 import (
 	"errors"
 
-	"go.ideatocode.tech/config/pkg/interfaces"
+	"github.com/helios-live/go-config/v2/pkg/interfaces"
 )
 
 // Mock .

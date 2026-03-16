@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	"github.com/go-kit/log"
-	"go.ideatocode.tech/config/pkg/interfaces"
+	"github.com/helios-live/go-config/v2/pkg/interfaces"
 )
 
 // DefaultManager is the base DefaultManager object

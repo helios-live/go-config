@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
+	"github.com/helios-live/go-config/v2"
+	"github.com/helios-live/go-config/v2/pkg/repository"
 	"github.com/stretchr/testify/assert"
-	"go.ideatocode.tech/config"
-	"go.ideatocode.tech/config/pkg/repository"
 )
 
 func TestCanMock(t *testing.T) {

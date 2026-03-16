@@ -3,9 +3,9 @@ package flags
 import (
 	"flag"
 
-	"go.ideatocode.tech/config"
-	"go.ideatocode.tech/config/pkg/marshal"
-	"go.ideatocode.tech/config/pkg/repository"
+	"github.com/helios-live/go-config/v2"
+	"github.com/helios-live/go-config/v2/pkg/marshal"
+	"github.com/helios-live/go-config/v2/pkg/repository"
 )
 
 var repo = flag.String("repository", "", "Forcefully use this repository [file, http]")

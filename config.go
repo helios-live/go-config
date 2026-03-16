@@ -7,9 +7,9 @@ import (
 
 	"github.com/go-kit/log"
 
-	"go.ideatocode.tech/config/pkg/interfaces"
-	"go.ideatocode.tech/config/pkg/marshal"
-	"go.ideatocode.tech/config/pkg/repository"
+	"github.com/helios-live/go-config/v2/pkg/interfaces"
+	"github.com/helios-live/go-config/v2/pkg/marshal"
+	"github.com/helios-live/go-config/v2/pkg/repository"
 )
 
 // New returns a pointer to a filled new instance of Configuration

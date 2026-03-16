@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"go.ideatocode.tech/config/pkg/interfaces"
+	"github.com/helios-live/go-config/v2/pkg/interfaces"
 )
 
 // File .

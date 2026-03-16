@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"go.ideatocode.tech/config/pkg/interfaces"
+	"github.com/helios-live/go-config/v2/pkg/interfaces"
 )
 
 // HTTP .
