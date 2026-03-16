@@ -1,4 +1,4 @@
-module go.ideatocode.tech/config
+module github.com/helios-live/go-config/v2
 
 go 1.17
 
